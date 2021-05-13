@@ -20,5 +20,4 @@ data class Produto(
     @Column(nullable = false)
     val valor: Float = 0f
 
-
 )
